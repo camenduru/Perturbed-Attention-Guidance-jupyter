@@ -6,7 +6,7 @@
 
 | Notebook | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Perturbed-Attention-Guidanc-jupyter/blob/main/Perturbed_Attention_Guidanc_jupyter.ipynb) | Perturbed_Attention_Guidanc_jupyter
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Perturbed-Attention-Guidance-jupyter/blob/main/Perturbed_Attention_Guidance_jupyter.ipynb) | Perturbed_Attention_Guidanc_jupyter
 
 ### 🧬 Code
 https://github.com/KU-CVLAB/Perturbed-Attention-Guidance
